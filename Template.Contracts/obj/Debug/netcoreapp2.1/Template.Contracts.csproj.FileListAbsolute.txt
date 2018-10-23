@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Template.Contracts.deps.json
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Template.Contracts.dll
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Template.Contracts.pdb
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Template.Entities.dll
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Template.Entities.pdb
+C:\Users\User\source\repos\Template\Template.Contracts\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.AssemblyInfo.cs
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.csproj.CopyComplete
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.dll
+C:\Users\User\source\repos\Template\Template.Contracts\obj\Debug\netcoreapp2.1\Template.Contracts.pdb

@@ -1,0 +1,23 @@
+2018-10-23 12:20:35.1269 INFO Returned all owneres from database at: 2018/10/23 12:20:35 PM
+2018-10-23 12:21:20.8307 INFO Returned all owneres from database at: 2018/10/23 12:21:20 PM
+2018-10-23 12:21:33.8060 INFO Returned owner with id: 96dd4ec3-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:09:28.7982 INFO Returned owner with account details for id: 96dd4ec3-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:09:39.7696 INFO Returned owner with account details for id: 96dd4ec3-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:14:10.4770 INFO Returned owner with account details for id: 96dd4ec3-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:15:19.1111 INFO Returned owner with account details for id: 96dd4ec3-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:17:22.0969 INFO Returned owner with account details for id: 96dd5311-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:17:47.1110 INFO Returned owner with account details for id: 96dd5311-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:17:52.3578 INFO Returned owner with account details for id: 96dd5311-d63c-11e8-951a-f48e38e878a3
+2018-10-23 13:24:36.9423 INFO Returned owner with account details for id: 46aab1a2-d63d-11e8-951a-f48e38e878a3
+2018-10-23 13:27:15.3061 INFO Returned owner with account details for id: 96dd5311-d63c-11e8-951a-f48e38e878a3
+2018-10-23 16:32:07.8151 INFO Returned owner with id: 96dd4ec3-d63c-11e8-951a-f48e38e878a3
+2018-10-23 16:57:46.5536 INFO Returned all owneres from database at: 2018/10/23 4:57:46 PM
+2018-10-23 16:58:00.9765 INFO Returned owner with id: cb3cdcfb-4e9d-4957-a9fb-91959fc4f276
+2018-10-23 16:58:22.7022 INFO Returned owner with account details for id: 96dd5311-d63c-11e8-951a-f48e38e878a3
+2018-10-23 16:58:43.9230 INFO Returned owner with account details for id: 46aaace2-d63d-11e8-951a-f48e38e878a3
+2018-10-23 17:30:16.4554 INFO Returned owner with id: b920ac56-02fe-4ab0-836f-8d322b8f80b3
+2018-10-23 17:30:26.8731 INFO Returned owner with id: b920ac56-02fe-4ab0-836f-8d322b8f80b3
+2018-10-23 17:30:38.5891 INFO Returned owner with id: b920ac56-02fe-4ab0-836f-8d322b8f80b3
+2018-10-23 17:31:07.5070 INFO Returned all owneres from database at: 2018/10/23 5:31:07 PM
+2018-10-23 17:32:18.8044 INFO Returned all owneres from database at: 2018/10/23 5:32:18 PM
+2018-10-23 17:34:19.3296 INFO Returned all owneres from database at: 2018/10/23 5:34:19 PM

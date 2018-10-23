@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.LoggerService.deps.json
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.LoggerService.dll
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.LoggerService.pdb
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.Contracts.dll
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.Entities.dll
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.Contracts.pdb
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Template.Entities.pdb
+C:\Users\User\source\repos\Template\Template.LoggerService\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.AssemblyInfo.cs
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.csproj.CopyComplete
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.dll
+C:\Users\User\source\repos\Template\Template.LoggerService\obj\Debug\netcoreapp2.1\Template.LoggerService.pdb

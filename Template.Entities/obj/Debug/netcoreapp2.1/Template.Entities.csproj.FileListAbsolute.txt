@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Template\Template.Entities\bin\Debug\netcoreapp2.1\Template.Entities.deps.json
+C:\Users\User\source\repos\Template\Template.Entities\bin\Debug\netcoreapp2.1\Template.Entities.dll
+C:\Users\User\source\repos\Template\Template.Entities\bin\Debug\netcoreapp2.1\Template.Entities.pdb
+C:\Users\User\source\repos\Template\Template.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Template\Template.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\source\repos\Template\Template.Entities\obj\Debug\netcoreapp2.1\Template.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Template\Template.Entities\obj\Debug\netcoreapp2.1\Template.Entities.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Template\Template.Entities\obj\Debug\netcoreapp2.1\Template.Entities.AssemblyInfo.cs
+C:\Users\User\source\repos\Template\Template.Entities\obj\Debug\netcoreapp2.1\Template.Entities.csproj.CopyComplete
+C:\Users\User\source\repos\Template\Template.Entities\obj\Debug\netcoreapp2.1\Template.Entities.dll
+C:\Users\User\source\repos\Template\Template.Entities\obj\Debug\netcoreapp2.1\Template.Entities.pdb
